@@ -100,12 +100,6 @@
           "title": "Novels of the Year, Fiction Everyone Should Read, Best Dataviz Books"
         }
       ]
-    },
-    {
-      "title": "Farnam Street",
-      "feedUrl": "https://fs.blog/feed/",
-      "siteUrl": "https://fs.blog",
-      "articles": []
     }
   ],
   "cliVersion": "1.12.0"

@@ -4,5 +4,4 @@ cacheMaxDays: 30
 sources:
   - href: https://waitbutwhy.com/feed
   - href: https://rsshub.app/blogs/paulgraham
-  - href: https://www.lesswrong.com/feed.xml?view=curated-rss
 

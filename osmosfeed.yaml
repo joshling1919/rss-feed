@@ -1,4 +1,4 @@
-# cacheUrl: https://joshling1919.github.io/rss-feed/cache.json
+cacheUrl: https://joshling1919.github.io/rss-feed/cache.json
 sources:
   - href: https://waitbutwhy.com/feed
   - href: https://rsshub.app/blogs/paulgraham

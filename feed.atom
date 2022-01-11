@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-01-11T19:54:44.916Z</updated>
+    <updated>2022-01-11T19:56:44.689Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Future ML Systems Will Be Qualitatively Different]]></title>
-        <id>pZaPhGg2hmmPwByHc</id>
-        <link href="https://www.lesswrong.com/posts/pZaPhGg2hmmPwByHc/future-ml-systems-will-be-qualitatively-different"/>
-        <updated>2022-01-11T19:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 11, 2022 7:50 PM GMT
-
-In 1972, the Nobel prize-winning physicist Philip Anderson wrote the essay "More Is Different". In it, he argues that quantitative changes can lead to qualitatively different and unexpected phenomena. While he focused on physics, one can find many examples of More is Different in other domains as well, including biology, economics, and computer science. Some examples of More is Different include:
-Uranium. With a bit of uranium, nothing special happens; with a large amount of uranium packed densely enough, you get a nuclear reaction.
-DNA. Given only small molecules such as calcium, you can’t meaningfully encode useful information; given larger molecules such as DNA, you can encode a genome.
-Water. Individual water molecules aren’t wet. Wetness only…]]></summary>
-        <author>
-            <name>jsteinhardt</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[A Project of One's Own]]></title>
         <id>http://www.paulgraham.com/own.html</id>
@@ -139,175 +124,138 @@ in which it refers to preferences of any kin…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Open Philanthropy grant proposal: Causal representation learning of human preferences]]></title>
-        <id>5BkEoJFEqQEWy9GcL</id>
-        <link href="https://www.lesswrong.com/posts/5BkEoJFEqQEWy9GcL/an-open-philanthropy-grant-proposal-causal-representation"/>
-        <updated>2022-01-11T11:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 11, 2022 11:28 AM GMT
+        <title type="html"><![CDATA[An Observation of Vavilov Day]]></title>
+        <id>puYfAEJJomeodeSsi</id>
+        <link href="https://www.lesswrong.com/posts/puYfAEJJomeodeSsi/an-observation-of-vavilov-day"/>
+        <updated>2022-01-09T07:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Published on January 3, 2022 9:10 PM GMT
 
-This is a proposal I wrote for the recent Open Philanthropy call on AI Alignment projects. I am finishing my Ph.D. in quantum computing and I would like to start working on AI Alignment. Thus, this is my proposal for a postdoc-style grant to learn more about one area I think the community could pay more attention to. However, since I am quite new to this area, there might be things that I have overlooked. For that reason, if you see something that doesn't sound promising, or you disagree with it, I would be happy to know about it.
-The proposal received some light comments from Victor Veitch, Ryan Carey, and José Hernández-Orallo. I also received some comments from Jaime Sevilla during the ideation phase. I am really grateful to all of them for th…]]></summary>
+I aspire to be a person who does good things, and who is capable of doing hard things in service of that. This is a plan to test that capacity.
+I haven’t been in a battle, but if you gave me the choice between dying in battle and slowly starving to death, I would immediately choose battle. Battles are scary but they are short and then they are over.
+If you gave me a chance to starve to death to generate some sufficiently good outcome, like saving millions of people from starvation, I think I would do it, and I would be glad to have the opportunity. It would hurt, but only for a few weeks, and in that time I could comfort myself with the warm glow of how good this was for other people.
+If you gave me a chance to save millions of people by starving, …]]></summary>
         <author>
-            <name>PabloAMC</name>
+            <name>Elizabeth</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emails from your Gratitude Journal]]></title>
-        <id>FG7mgPFytq2a3rjJq</id>
-        <link href="https://www.lesswrong.com/posts/FG7mgPFytq2a3rjJq/emails-from-your-gratitude-journal"/>
-        <updated>2022-01-11T06:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 11, 2022 6:05 AM GMT
+        <title type="html"><![CDATA[larger language models may disappoint you [or, an eternally unfinished draft]]]></title>
+        <id>pv7Qpu8WSge8NRbpB</id>
+        <link href="https://www.lesswrong.com/posts/pv7Qpu8WSge8NRbpB/larger-language-models-may-disappoint-you-or-an-eternally"/>
+        <updated>2022-01-06T08:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 26, 2021 11:08 PM GMT
 
-Lots has been written here about gratitude journaling.
-In spite of knowing about the benefits, I've never managed to make the habit stick. I do, however, already have a very strong habit of responding to email and keeping my inbox under control.
-That's what pushed me to build Email Notebook, which I'm hopeful will facilitate other folks' writing habits, too.
-It's beta quality at the moment, but my email is on the contact page and I plan to put some effort into feature requests if there are any common themes. Already on the roadmap is to improve the variety of prompts, touching on some of the specific practices outlined by @david_gross.
-If you do give it a try, please report any bugs you encounter :)
-Discuss]]></summary>
+what this post is
+The following is an incomplete draft, which I'm publishing now because I am unlikely to ever finish writing it.
+I no longer fully endorse all the claims in the post.  (In a few cases, I've added a note to say this explicitly.)  However, there are some arguments in the post that I still endorse, and which I have not seen made elsewhere.
+This post is the result of me having lots of opinions about LM scaling, at various times in 2021, which were difficult to write down briefly or independently of one another.  This post, originally written in July 2021, is the closest I got to writing them all down in one place.
+-nost, 11/26/21
+
+0. caveat
+This post will definitely disappoint you.
+Or, anyway, it will definitely disappoint me.  I kn…]]></summary>
         <author>
-            <name>karlkeefer</name>
+            <name>nostalgebraist</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibration proverbs]]></title>
-        <id>NYH8kjdpLCTXcit8C</id>
-        <link href="https://www.lesswrong.com/posts/NYH8kjdpLCTXcit8C/calibration-proverbs"/>
-        <updated>2022-01-11T05:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 11, 2022 5:11 AM GMT
+        <title type="html"><![CDATA[ARC's first technical report: Eliciting Latent Knowledge]]></title>
+        <id>qHCDysDnvhteW7kRd</id>
+        <link href="https://www.lesswrong.com/posts/qHCDysDnvhteW7kRd/arc-s-first-technical-report-eliciting-latent-knowledge"/>
+        <updated>2022-01-03T11:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 14, 2021 8:09 PM GMT
 
-Cross-post from Telescopic Turnip.
-Every problem is a calibration problem. That’s why most advice is basically useless: it tells you what to do, but doesn’t tell you when to stop. Therefore, the best pieces of advice are calibration advice. What we need is a metric to know if we are doing well, or if we should change our habits (and in which direction). For example, here are two poor pieces of advice:
-"You should spend more time reading blogs, because compared to traditional media, bloggers have more freedom to communicate in original ways, and are more accountable when they say something false."
-"You should spend less time reading blogs, because keeping up with a big pile of subscriptions takes a lot of time and makes you anxious."
-Neither of the…]]></summary>
-        <author>
-            <name>Elmer of Malmesbury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D&D.Sci Holiday Special: How the Grinch Pessimized Christmas Evaluation & Ruleset]]></title>
-        <id>tQQaAuTtMCkYBbZcj</id>
-        <link href="https://www.lesswrong.com/posts/tQQaAuTtMCkYBbZcj/d-and-d-sci-holiday-special-how-the-grinch-pessimized-1"/>
-        <updated>2022-01-11T01:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 11, 2022 1:29 AM GMT
-
-This is a follow-up to last week's D&D.Sci scenario: if you intend to play that, and haven't done so yet, you should do so now before spoiling yourself.
-Full generation code is available here if you are interested, or you can read on.
-RULESET
-Each of the six toys makes a different amount of noise depending on what child receives it:
-
-A Blum-Blooper makes 6 noise.
-A Fum-Foozler is more popular with female Who children - it makes 8 noise with a female Who child but only 4 noise with a male one.
-A Gah-Ginka is very noisy, but too simple to hold the attention of older children for long.  It makes 11 noise - 1/2 (rounded down) the child's age (so anywhere from 11 for an Age 1 child to 5 for an Age 12 child).
-A Sloo-Slonker is complicated, and small Who…]]></summary>
-        <author>
-            <name>aphyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Abstraction Without a Goal]]></title>
-        <id>F2LS4tjbNDnLAsdbp</id>
-        <link href="https://www.lesswrong.com/posts/F2LS4tjbNDnLAsdbp/no-abstraction-without-a-goal-1"/>
-        <updated>2022-01-10T21:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 10, 2022 9:28 PM GMT
-
-Abstractions are important.
-
-In order to think in terms of "trees" and "birds" instead of raw retinal activation rates, human minds need to form abstractions.
-In order to keep Nature red in tooth and claw, organisms must first evolve abstractions like "tooth" and "claw".
-Neural networks can learn human abstractions.
-Figuring out abstraction is possibly "the main foundational piece" of successful AI alignment.
-Abstractions are functions that map a high-dimensional space to a low-dimensional space. They have more possible inputs than possible outputs, so abstractions have to shed some information.
-Abstractions filter out useless information, while keeping useful information.
-In order for there to be such a thing as "useful information", there must be some goal(s) being pursued.
-You might argue that "abstraction" only means preserving information used to predict faraway observations from a given system. However, coarse modeling of distant objects is often a convergent subgoal of the kind of organisms that Nature selects for.
-The scout does not tell the general about the bluejays he saw. He reports the number of bombers in the enemy's hangar. Condensation of information always selects for goal-relevant information. Any condensation of information implies that the omitted information is less goal-relevant than the reported information; there is no abstraction without a goal.
-Discuss]]></summary>
-        <author>
-            <name>dkirmani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is state a (semi-) rational agent?]]></title>
-        <id>kwxDe6ACmepiJEzEj</id>
-        <link href="https://www.lesswrong.com/posts/kwxDe6ACmepiJEzEj/is-state-a-semi-rational-agent"/>
-        <updated>2022-01-10T19:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 10, 2022 7:53 PM GMT
-
-Look at the following statements*:
-- “India and Pakistan can agree on one thing: neither wants the other one around.”
-- “The Americans don’t really want to fight for the South Koreans, but nor can they afford to be seen to be giving up on a friend.”
-- “What is now the EU was set up so that France and Germany could hug each other so tightly in a loving embrace that neither would be able to get an arm free with which to punch the other.”
-I don't want to argue whether these statements are true or not. What's bugging me is that they all contain an implicit assumption that a state acts as an intelligent agent at least and as a rational agent at most**.
-Is this assumption true?
-A state is a complex system which comprise civilians, military, businesses and different government branches. These parts may have different and even opposite goals and values and they can constrain each other. Will interactions between those parts lead to a (more or less) rational behavior of a whole?
-Do you know a good book or article which reflects on this issue?
- 
----
-* Quotes from "Prisoners of Geography" by Tim Marshall
-** I guess many people assume that states are human-like rational
+ARC has published a report on Eliciting Latent Knowledge, an open problem which we believe is central to alignment. We think reading this report is the clearest way to understand what problems we are working on, how they fit into our plan for solving alignment in the worst case, and our research methodology.
+The core difficulty we discuss is learning how to map between an AI’s model of the world and a human’s model. This is closely related to ontology identification (and other similar statements). Our main contribution is to present many possible approaches to the problem and a more precise discussion of why it seems to be difficult and important.
+The report is available here as a google document. If you're excited about this research, we're hiring!
+Q&A
+We're particularly excited about answering questions posted here throughout December. We welcome any questions no matter how basic or confused; we would love to help people understand what research we’re doing and how we evaluate progress in enough detail that they could start to do it themselves.
+Thanks to María Gutiérrez-Rojas for the illustrations in this piece (the good ones, blame us for the ugly diagrams). Thanks to Buck Shlegeris, Jon Uesato, Carl Shulman, and especially Holden Karnofsky for helpful discussions and comments.
 
 Discuss]]></summary>
         <author>
-            <name>Birke</name>
+            <name>paulfchristiano</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The First Person And The Physical Person]]></title>
-        <id>tkhQC9YBgQAcgBLRP</id>
-        <link href="https://www.lesswrong.com/posts/tkhQC9YBgQAcgBLRP/the-first-person-and-the-physical-person"/>
-        <updated>2022-01-10T19:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 10, 2022 7:47 PM GMT
+        <title type="html"><![CDATA[Omicron: My Current Model]]></title>
+        <id>zFhhDCxz87yKwqYQf</id>
+        <link href="https://www.lesswrong.com/posts/zFhhDCxz87yKwqYQf/omicron-my-current-model"/>
+        <updated>2021-12-30T09:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 28, 2021 5:10 PM GMT
 
-This is another attempt to promote my approach to anthropic paradoxes. I framed the argument differently hopefully making it more clear. Please refer to my website for more. 
-What "I" Means
-In the strict indexical sense, "I" just means the first person. However we also often interpret it as the physical person uttering the word and usually equate the two meanings, "I am this physical person" after all. But there is a caveat. The equivalency is bound by the perspective. 
-The first person meaning of "I" is restricted to its own viewpoint, from other perspectives only the physical meaning can be used. If I hear you say "I'm hungry", to me the only correct way of interpreting it would be the physical person "[insert reader name] is hungry", not that "…]]></summary>
+A year and a half ago, I wrote a post called Covid-19: My Current Model. Since then things have often changed, and we have learned a lot. It seems like high time for a new post of this type.
+Note that this post mostly does not justify and explain its statements. I document my thinking, sources and analysis extensively elsewhere, little of this should be new.
+This post combines the basic principles from my original post, which mostly still stand, with my core model for Omicron. I’ll summarize and update the first post, then share my current principles for Omicron and how to deal with and think about it.
+There’s a lot of different things going on, so this will likely be incomplete, but hopefully it will prove useful. The personally useful executive…]]></summary>
         <author>
-            <name>dadadarren</name>
+            <name>Zvi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forecasting Newsletter: December 2021]]></title>
-        <id>MDfesb7oYu8KhGvLR</id>
-        <link href="https://www.lesswrong.com/posts/MDfesb7oYu8KhGvLR/forecasting-newsletter-december-2021"/>
-        <updated>2022-01-10T19:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 10, 2022 7:35 PM GMT
+        <title type="html"><![CDATA[Reply to Eliezer on Biological Anchors]]></title>
+        <id>nNqXfnjiezYukiMJi</id>
+        <link href="https://www.lesswrong.com/posts/nNqXfnjiezYukiMJi/reply-to-eliezer-on-biological-anchors"/>
+        <updated>2021-12-27T02:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 23, 2021 4:15 PM GMT
 
-Highlights
+The "biological anchors" method for forecasting transformative AI is the biggest non-trust-based input into my thinking about likely timelines for transformative AI. While I'm sympathetic to parts of Eliezer Yudkowsky's recent post on it, I overall disagree with the post, and think it's easy to get a misimpression of the "biological anchors" report (which I'll abbreviate as "Bio Anchors") - and Open Philanthropy's take on it - by reading it. 
+This post has three sections:
 
-Polymarket’s future is uncertain after it settled with the CFTC for $1.4M
-Astral Codex Ten gives out $40k to forecasting projects
-Many people, including Mathew Yglesias, write predictions for 2022.
-Eli Lifland writes the reference piece on bottlenecks to impactful forecasting
-Google reveals the existence of a gigantic new internal prediction market
-A new forecasting platform appears, Manifold Markets
-
-Index
-
-Prediction Markets & Forecasting Platforms
-Long Content
-Blog Posts
-In The News
-
-You can sign up for this newsletter on substack, or browse past newsletters here. If you have a content suggestion or want to reach out, you can leave a comment or find me on Twitter. A big hat tip goes to Nathan Young and Clay Graubard for comments and…]]></summary>
+Most of Eliezer's critique seems directed at assumptions the report explicitly does not make about how transformative AI will be developed, and more broadly, about the connection between its (the report's) compute estimates and all-things-considered AI timelines. One way of put…]]></summary>
         <author>
-            <name>NunoSempere</name>
+            <name>HoldenKarnofsky</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Activated Charcoal for Hangover Prevention: Way more than you wanted to know]]></title>
-        <id>LfrNFfJFcqnG9WuFf</id>
-        <link href="https://www.lesswrong.com/posts/LfrNFfJFcqnG9WuFf/activated-charcoal-for-hangover-prevention-way-more-than-you"/>
-        <updated>2022-01-10T19:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Published on January 10, 2022 7:26 PM GMT
+        <title type="html"><![CDATA[Reneging Prosocially]]></title>
+        <id>sjRG35aq5fosJ6mdG</id>
+        <link href="https://www.lesswrong.com/posts/sjRG35aq5fosJ6mdG/reneging-prosocially"/>
+        <updated>2021-12-22T22:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Published on November 30, 2021 7:01 PM GMT
 
-Activated charcoal is charcoal that has been heated up a whole lot and then washed really hard, by water or acid. This process is what "activates" it, and activating it increases the surface area by a lot. I think it prevents hangovers.
-I won't spend too much time in this post arguing that activated charcoal works. Instead, I'll mostly take for granted that it does, then take a tour of the various things that might cause hangovers, stopping at each to look at why activated charcoal might or might not be likely to reduce them. So even if you're sure activated charcoal is just a hokey health craze thing I've tricked myself into believing, this post still has lots of interesting hangover science you might not have heard about.
- 
-I used to suffer vici…]]></summary>
+Author's note: this essay was originally published elsewhere in 2019. It's now being permanently rehosted at this link. I'll be rehosting a small number of other upper-quintile essays from my past writing over the coming weeks.
+
+Quite often, I will make an agreement, and then find myself regretting it. I’ll commit to spending a certain amount of hours helping someone with their problem, or I’ll agree to take part in an outing or a party or a project, or I’ll trade some item for a certain amount of value in return, and then later find that my predictions about how I would feel were pretty far off, and I'm unhappy.
+Sometimes, I just suck it up and stick it out. But sometimes I renege on the agreement. In this essay, I’d like to lay out a model for …]]></summary>
         <author>
-            <name>Maxwell Peterson</name>
+            <name>Duncan_Sabien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Plan]]></title>
+        <id>3L46WGauGpr7nYubu</id>
+        <link href="https://www.lesswrong.com/posts/3L46WGauGpr7nYubu/the-plan"/>
+        <updated>2021-12-19T04:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 10, 2021 11:41 PM GMT
+
+This is a high-level overview of the reasoning behind my research priorities, written as a Q&A.
+What’s your plan for AI alignment?
+Step 1: sort out our fundamental confusions about agency
+Step 2: ambitious value learning (i.e. build an AI which correctly learns human values and optimizes for them)
+Step 3: …
+Step 4: profit!
+… and do all that before AGI kills us all.
+That sounds… awfully optimistic. Do you actually think that’s viable?
+Better than a 50/50 chance of working in time.
+Do you just have really long timelines?
+No. My median is maybe 10-15 years, though that’s more a gut estimate based on how surprised I was over the past decade rather than a carefully-considered analysis. (I wouldn’t be shocked by another AI winter, especially on an ins…]]></summary>
+        <author>
+            <name>johnswentworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID and the holidays]]></title>
+        <id>GzzJZmqxcqg5KFf8r</id>
+        <link href="https://www.lesswrong.com/posts/GzzJZmqxcqg5KFf8r/covid-and-the-holidays"/>
+        <updated>2021-12-15T18:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Published on December 8, 2021 11:13 PM GMT
+
+6 months ago I wrote about how 30-year-olds should basically go back to normal and no longer take many COVID precautions.
+The holidays make this policy somewhat worse, because you can infect your family members. Further, vaccine efficacy has waned about 3x for most people since it’s been about six months since the vaccine wave. Some people have expressed concern about solstice in particular, which seems to turn out relatively safe. So let’s examine how you might navigate this.
+The key takeaway is that a 1% chance of having COVID, which is about the base rate of COVID in the US, costs older relatives a few days of life if you pass it on to them. Thus, you should probably take a few easy actions beforehand to bring this down to a small number of ho…]]></summary>
+        <author>
+            <name>Connor_Flexman</name>
         </author>
     </entry>
 </feed>

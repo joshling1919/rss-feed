@@ -1,4 +1,6 @@
 cacheUrl: https://joshling1919.github.io/rss-feed/cache.json
+siteTitle: "rss feed"
+cacheMaxDays: 30
 sources:
   - href: https://waitbutwhy.com/feed
   - href: https://rsshub.app/blogs/paulgraham

@@ -57,6 +57,49 @@
           "title": "Is There Such a Thing as Good Taste?"
         }
       ]
+    },
+    {
+      "title": "Information is Beautiful",
+      "feedUrl": "http://feeds.feedburner.com/InformationIsBeautiful",
+      "siteUrl": "https://informationisbeautiful.net",
+      "articles": [
+        {
+          "id": "https://informationisbeautiful.net/?p=8877",
+          "author": "David McCandless",
+          "description": "Announcing a new season of our fun online intensives » Tue 1st Feb 2022 – US timezone » Tue 1st Mar – UK/EU timezone » Streamable on-demand version also available. Our trainings are a technicolour mix of lecture, exercises, discussion & techniques, hosted by IIB founder and author, David McCandless. » See what participants say […]",
+          "link": "https://informationisbeautiful.net/2022/new-infographic-training-seminars-for-2022/",
+          "publishedOn": "2022-01-11T17:31:41.000Z",
+          "wordCount": 216,
+          "title": "New Infographic Training Seminars for 2022"
+        },
+        {
+          "id": "https://informationisbeautiful.net/?p=8868",
+          "author": "David McCandless",
+          "description": "Visualising 28 currently-touted treatments for COVID-19, their evidence level and effectiveness. Or lack of. Main source: this excellent resource from the New York Times, plus Johns Hopkins (PDF), The Lancet and others. » See the interactive visualisation » Review the data",
+          "link": "https://informationisbeautiful.net/2022/coronavirus-most-and-least-effective-treatments-drugs/",
+          "publishedOn": "2022-01-06T19:26:53.000Z",
+          "wordCount": 112,
+          "title": "Coronavirus Most (and Least) Effective Treatments & Drugs"
+        },
+        {
+          "id": "https://informationisbeautiful.net/?p=8825",
+          "author": "David McCandless",
+          "description": "21 positive trends & amazing achievements from 2021 you may not have read about – in one interactive graphic. » See the graphic » part of our Beautiful News project",
+          "link": "https://informationisbeautiful.net/2021/most-beautiful-news-of-the-year/",
+          "publishedOn": "2021-12-22T19:49:47.000Z",
+          "wordCount": 98,
+          "title": "Most Beautiful News of the Year"
+        },
+        {
+          "id": "https://informationisbeautiful.net/?p=8802",
+          "author": "David McCandless",
+          "description": "Our ‘consensus clouds’ gather data from major best-of lists & book polls and visualise the highly rated. » Best Novels of the Year (data) » Novels Everyone Should Read (data) » Best Dataviz Books » More graphics about arts & culture",
+          "link": "https://informationisbeautiful.net/2021/novels-of-the-year-fiction-everyone-should-read-best-dataviz-books/",
+          "publishedOn": "2021-12-15T17:08:31.000Z",
+          "wordCount": 116,
+          "title": "Novels of the Year, Fiction Everyone Should Read, Best Dataviz Books"
+        }
+      ]
     }
   ],
   "cliVersion": "1.12.0"

@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-11T19:27:50.570Z</id>
+    <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T19:27:50.570Z</updated>
+    <updated>2022-01-11T19:28:30.548Z</updated>
     <generator>osmosfeed 1.12.0</generator>
-    <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[How to Work Hard]]></title>
-        <id>http://www.paulgraham.com/hwh.html</id>
-        <link href="http://www.paulgraham.com/hwh.html"/>
-        <updated>2022-01-11T19:27:49.497Z</updated>
-        <summary type="html"><![CDATA[June 2021
-It might not seem there's much to learn about how to work hard.
-Anyone who's been to school knows what it entails, even if they
-chose not to do it. There are 12 year olds who work amazingly hard. And
-yet when I ask if I know more about working hard now than when I
-was in school, the answer is definitely yes.
-One thing I know is that if you want to do great things, you'll
-have to work very hard. I wasn't sure of that as a kid. Schoolwork
-varied in difficulty; one didn't always have to work super hard to
-do well. And some of the things famous adults did, they seemed to
-do almost effortlessly. Was there, perhaps, some way to evade hard
-work through sheer brilliance? Now I know the answer to that question.
-There isn't.
-The reason some subjects seemed easy was that my school had low
-s…]]></summary>
-        <author>
-            <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
+    <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
+    <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[A Project of One's Own]]></title>
         <id>http://www.paulgraham.com/own.html</id>
         <link href="http://www.paulgraham.com/own.html"/>
-        <updated>2022-01-11T19:27:49.478Z</updated>
+        <updated>2022-01-11T19:28:29.978Z</updated>
         <summary type="html"><![CDATA[June 2021
 A few days ago, on the way home from school, my nine year old son
 told me he couldn't wait to get home to write more of the story he
@@ -56,7 +33,7 @@ often they aren't. When I…]]></summary>
         <title type="html"><![CDATA[Weird Languages]]></title>
         <id>http://www.paulgraham.com/weird.html</id>
         <link href="http://www.paulgraham.com/weird.html"/>
-        <updated>2022-01-11T19:27:49.461Z</updated>
+        <updated>2022-01-11T19:28:29.971Z</updated>
         <summary type="html"><![CDATA[August 2021
 When people say that in their experience all programming languages
 are basically equivalent, they're making a statement not about
@@ -76,10 +53,34 @@ of some form of programming that's not just the usual gluing togeth…]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Work Hard]]></title>
+        <id>http://www.paulgraham.com/hwh.html</id>
+        <link href="http://www.paulgraham.com/hwh.html"/>
+        <updated>2022-01-11T19:28:29.960Z</updated>
+        <summary type="html"><![CDATA[June 2021
+It might not seem there's much to learn about how to work hard.
+Anyone who's been to school knows what it entails, even if they
+chose not to do it. There are 12 year olds who work amazingly hard. And
+yet when I ask if I know more about working hard now than when I
+was in school, the answer is definitely yes.
+One thing I know is that if you want to do great things, you'll
+have to work very hard. I wasn't sure of that as a kid. Schoolwork
+varied in difficulty; one didn't always have to work super hard to
+do well. And some of the things famous adults did, they seemed to
+do almost effortlessly. Was there, perhaps, some way to evade hard
+work through sheer brilliance? Now I know the answer to that question.
+There isn't.
+The reason some subjects seemed easy was that my school had low
+s…]]></summary>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Beyond Smart]]></title>
         <id>http://www.paulgraham.com/smart.html</id>
         <link href="http://www.paulgraham.com/smart.html"/>
-        <updated>2022-01-11T19:27:49.454Z</updated>
+        <updated>2022-01-11T19:28:29.942Z</updated>
         <summary type="html"><![CDATA[October 2021
 If you asked people what was special about Einstein, most would say
 that he was really smart. Even the ones who tried to give you a
@@ -103,7 +104,7 @@ I g…]]></summary>
         <title type="html"><![CDATA[Is There Such a Thing as Good Taste?]]></title>
         <id>http://www.paulgraham.com/goodtaste.html</id>
         <link href="http://www.paulgraham.com/goodtaste.html"/>
-        <updated>2022-01-11T19:27:49.051Z</updated>
+        <updated>2022-01-11T19:28:29.928Z</updated>
         <summary type="html"><![CDATA[November 2021
 (This essay is derived from a talk at the Cambridge Union.)
 When I was a kid, I'd have said there wasn't. My father told me so.

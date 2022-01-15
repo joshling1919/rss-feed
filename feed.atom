@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-01-14T01:02:40.469Z</updated>
+    <updated>2022-01-15T00:59:52.668Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
@@ -149,16 +149,6 @@ in which it refers to preferences of any kin…]]></summary>
         <link href="https://informationisbeautiful.net/2021/most-beautiful-news-of-the-year/"/>
         <updated>2021-12-22T19:49:47.000Z</updated>
         <summary type="html"><![CDATA[21 positive trends & amazing achievements from 2021 you may not have read about – in one interactive graphic. » See the graphic » part of our Beautiful News project]]></summary>
-        <author>
-            <name>David McCandless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novels of the Year, Fiction Everyone Should Read, Best Dataviz Books]]></title>
-        <id>https://informationisbeautiful.net/?p=8802</id>
-        <link href="https://informationisbeautiful.net/2021/novels-of-the-year-fiction-everyone-should-read-best-dataviz-books/"/>
-        <updated>2021-12-15T17:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Our ‘consensus clouds’ gather data from major best-of lists & book polls and visualise the highly rated. » Best Novels of the Year (data) » Novels Everyone Should Read (data) » Best Dataviz Books » More graphics about arts & culture]]></summary>
         <author>
             <name>David McCandless</name>
         </author>

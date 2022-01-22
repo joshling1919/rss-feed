@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-01-21T00:55:45.739Z</updated>
+    <updated>2022-01-22T00:54:53.055Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
@@ -139,16 +139,6 @@ in which it refers to preferences of any kin…]]></summary>
         <link href="https://informationisbeautiful.net/2022/coronavirus-most-and-least-effective-treatments-drugs/"/>
         <updated>2022-01-06T19:26:53.000Z</updated>
         <summary type="html"><![CDATA[Visualising 28 currently-touted treatments for COVID-19, their evidence level and effectiveness. Or lack of. Main source: this excellent resource from the New York Times, plus Johns Hopkins (PDF), The Lancet and others. » See the interactive visualisation » Review the data]]></summary>
-        <author>
-            <name>David McCandless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Beautiful News of the Year]]></title>
-        <id>https://informationisbeautiful.net/?p=8825</id>
-        <link href="https://informationisbeautiful.net/2021/most-beautiful-news-of-the-year/"/>
-        <updated>2021-12-22T19:49:47.000Z</updated>
-        <summary type="html"><![CDATA[21 positive trends & amazing achievements from 2021 you may not have read about – in one interactive graphic. » See the graphic » part of our Beautiful News project]]></summary>
         <author>
             <name>David McCandless</name>
         </author>

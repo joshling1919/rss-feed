@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-02-05T00:49:54.630Z</updated>
+    <updated>2022-02-06T01:05:54.464Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
@@ -129,16 +129,6 @@ in which it refers to preferences of any kin…]]></summary>
         <link href="https://informationisbeautiful.net/2022/new-infographic-training-seminars-for-2022/"/>
         <updated>2022-01-11T17:31:41.000Z</updated>
         <summary type="html"><![CDATA[Announcing a new season of our fun online intensives » Tue 1st Feb 2022 – US timezone » Tue 1st Mar – UK/EU timezone » Streamable on-demand version also available. Our trainings are a technicolour mix of lecture, exercises, discussion & techniques, hosted by IIB founder and author, David McCandless. » See what participants say […]]]></summary>
-        <author>
-            <name>David McCandless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coronavirus Most (and Least) Effective Treatments & Drugs]]></title>
-        <id>https://informationisbeautiful.net/?p=8868</id>
-        <link href="https://informationisbeautiful.net/2022/coronavirus-most-and-least-effective-treatments-drugs/"/>
-        <updated>2022-01-06T19:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Visualising 28 currently-touted treatments for COVID-19, their evidence level and effectiveness. Or lack of. Main source: this excellent resource from the New York Times, plus Johns Hopkins (PDF), The Lancet and others. » See the interactive visualisation » Review the data]]></summary>
         <author>
             <name>David McCandless</name>
         </author>

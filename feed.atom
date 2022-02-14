@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-02-13T01:03:40.941Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T00:57:05.824Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Putting Ideas into Words]]></title>
+        <id>http://www.paulgraham.com/words.html</id>
+        <link href="http://www.paulgraham.com/words.html"/>
+        <updated>2022-02-14T00:57:04.558Z</updated>
+        <summary type="html"><![CDATA[February 2022
+Writing about something, even something you know well, usually shows
+you that you didn't know it as well as you thought. Putting ideas
+into words is a severe test. The first words you choose are usually
+wrong; you have to rewrite sentences over and over  to
+get them exactly right. And your ideas won't just be imprecise, but
+incomplete too. Half the ideas that end up in an essay will be ones
+you thought of while you were writing it. Indeed, that's why I write
+them.
+Once you publish something, the convention is that whatever you
+wrote was what you thought before you wrote it. These were your
+ideas, and now you've expressed them. But you know this isn't true.
+You know that putting your ideas into words changed them. And not
+just the ideas you published. Presumably there were oth…]]></summary>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work Hard]]></title>
         <id>http://www.paulgraham.com/hwh.html</id>

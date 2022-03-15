@@ -12,6 +12,46 @@
       "siteUrl": "http://www.paulgraham.com/articles.html",
       "articles": [
         {
+          "id": "http://www.paulgraham.com/hwh.html",
+          "author": null,
+          "description": "June 2021\nIt might not seem there's much to learn about how to work hard.\nAnyone who's been to school knows what it entails, even if they\nchose not to do it. There are 12 year olds who work amazingly hard. And\nyet when I ask if I know more about working hard now than when I\nwas in school, the answer is definitely yes.\nOne thing I know is that if you want to do great things, you'll\nhave to work very hard. I wasn't sure of that as a kid. Schoolwork\nvaried in difficulty; one didn't always have to work super hard to\ndo well. And some of the things famous adults did, they seemed to\ndo almost effortlessly. Was there, perhaps, some way to evade hard\nwork through sheer brilliance? Now I know the answer to that question.\nThere isn't.\nThe reason some subjects seemed easy was that my school had low\ns…",
+          "link": "http://www.paulgraham.com/hwh.html",
+          "publishedOn": "2022-03-15T00:14:13.778Z",
+          "wordCount": 3276,
+          "title": "How to Work Hard",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/smart.html",
+          "author": null,
+          "description": "October 2021\nIf you asked people what was special about Einstein, most would say\nthat he was really smart. Even the ones who tried to give you a\nmore sophisticated-sounding answer would probably think this first.\nTill a few years ago I would have given the same answer myself. But\nthat wasn't what was special about Einstein. What was special about\nhim was that he had important new ideas. Being very smart was a\nnecessary precondition for having those ideas, but the two are not\nidentical.\nIt may seem a hair-splitting distinction to point out that intelligence\nand its consequences are not identical, but it isn't. There's a big\ngap between them. Anyone who's spent time around universities and\nresearch labs knows how big. There are a lot of genuinely smart\npeople who don't achieve very much.\nI g…",
+          "link": "http://www.paulgraham.com/smart.html",
+          "publishedOn": "2022-03-15T00:14:13.774Z",
+          "wordCount": 1405,
+          "title": "Beyond Smart",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/goodtaste.html",
+          "author": null,
+          "description": "November 2021\n(This essay is derived from a talk at the Cambridge Union.)\nWhen I was a kid, I'd have said there wasn't. My father told me so.\nSome people like some things, and other people like other things,\nand who's to say who's right?\nIt seemed so obvious that there was no such thing as good taste\nthat it was only through indirect evidence that I realized my father\nwas wrong. And that's what I'm going to give you here: a proof by\nreductio ad absurdum. If we start from the premise that there's no\nsuch thing as good taste, we end up with conclusions that are\nobviously false, and therefore the premise must be wrong.\nWe'd better start by saying what good taste is. There's a narrow\nsense in which it refers to aesthetic judgements and a broader one\nin which it refers to preferences of any kin…",
+          "link": "http://www.paulgraham.com/goodtaste.html",
+          "publishedOn": "2022-03-15T00:14:13.760Z",
+          "wordCount": 1119,
+          "title": "Is There Such a Thing as Good Taste?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/weird.html",
+          "author": null,
+          "description": "August 2021\nWhen people say that in their experience all programming languages\nare basically equivalent, they're making a statement not about\nlanguages but about the kind of programming they've done.\n99.5% of programming consists of gluing together calls to library\nfunctions. All popular languages are equally good at this. So one\ncan easily spend one's whole career operating in the intersection\nof popular programming languages.\nBut the other .5% of programming is disproportionately interesting.\nIf you want to learn what it consists of, the weirdness of weird\nlanguages is a good clue to follow.\nWeird languages aren't weird by accident. Not the good ones, at\nleast. The weirdness of the good ones usually implies the existence\nof some form of programming that's not just the usual gluing togeth…",
+          "link": "http://www.paulgraham.com/weird.html",
+          "publishedOn": "2022-03-15T00:14:13.469Z",
+          "wordCount": 348,
+          "title": "Weird Languages",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.paulgraham.com/words.html",
           "author": null,
           "description": "February 2022\nWriting about something, even something you know well, usually shows\nyou that you didn't know it as well as you thought. Putting ideas\ninto words is a severe test. The first words you choose are usually\nwrong; you have to rewrite sentences over and over  to\nget them exactly right. And your ideas won't just be imprecise, but\nincomplete too. Half the ideas that end up in an essay will be ones\nyou thought of while you were writing it. Indeed, that's why I write\nthem.\nOnce you publish something, the convention is that whatever you\nwrote was what you thought before you wrote it. These were your\nideas, and now you've expressed them. But you know this isn't true.\nYou know that putting your ideas into words changed them. And not\njust the ideas you published. Presumably there were oth…",

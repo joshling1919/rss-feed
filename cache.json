@@ -12,6 +12,16 @@
       "siteUrl": "http://www.paulgraham.com/articles.html",
       "articles": [
         {
+          "id": "http://www.paulgraham.com/words.html",
+          "author": null,
+          "description": "February 2022\nWriting about something, even something you know well, usually shows\nyou that you didn't know it as well as you thought. Putting ideas\ninto words is a severe test. The first words you choose are usually\nwrong; you have to rewrite sentences over and over  to\nget them exactly right. And your ideas won't just be imprecise, but\nincomplete too. Half the ideas that end up in an essay will be ones\nyou thought of while you were writing it. Indeed, that's why I write\nthem.\nOnce you publish something, the convention is that whatever you\nwrote was what you thought before you wrote it. These were your\nideas, and now you've expressed them. But you know this isn't true.\nYou know that putting your ideas into words changed them. And not\njust the ideas you published. Presumably there were oth…",
+          "link": "http://www.paulgraham.com/words.html",
+          "publishedOn": "2022-03-17T00:13:50.253Z",
+          "wordCount": 1154,
+          "title": "Putting Ideas into Words",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.paulgraham.com/hwh.html",
           "author": null,
           "description": "June 2021\nIt might not seem there's much to learn about how to work hard.\nAnyone who's been to school knows what it entails, even if they\nchose not to do it. There are 12 year olds who work amazingly hard. And\nyet when I ask if I know more about working hard now than when I\nwas in school, the answer is definitely yes.\nOne thing I know is that if you want to do great things, you'll\nhave to work very hard. I wasn't sure of that as a kid. Schoolwork\nvaried in difficulty; one didn't always have to work super hard to\ndo well. And some of the things famous adults did, they seemed to\ndo almost effortlessly. Was there, perhaps, some way to evade hard\nwork through sheer brilliance? Now I know the answer to that question.\nThere isn't.\nThe reason some subjects seemed easy was that my school had low\ns…",

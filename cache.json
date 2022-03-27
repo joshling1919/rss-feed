@@ -67,7 +67,18 @@
       "title": "Information is Beautiful",
       "feedUrl": "http://feeds.feedburner.com/InformationIsBeautiful",
       "siteUrl": "https://informationisbeautiful.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://informationisbeautiful.net/?p=8946",
+          "author": "David McCandless",
+          "description": "A collection of visualisations, maps and primers from around the web. We’ll keep this list updated. » Total Refugees from Ukraine, compared to other countries [Flowing Data] » Visualising the $13.6 billion US spend on Ukraine [New York Times] » Russian Oil – who imports it? Who’s Most Dependent on it? [Information is Beautiful] » […]",
+          "link": "https://informationisbeautiful.net/2022/ukraine-russian-war-infographics-data-visuals/",
+          "publishedOn": "2022-03-26T13:40:19.000Z",
+          "wordCount": 151,
+          "title": "Ukraine-Russian War Infographics & Data Visuals",
+          "imageUrl": "https://infobeautiful4.s3.amazonaws.com/2022/03/IIB-Major-Oil-Producers-IIB-decorative-1400x400x2-960x274.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-03-26T00:14:13.093Z</updated>
+    <updated>2022-03-27T00:16:43.499Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ukraine-Russian War Infographics & Data Visuals]]></title>
+        <id>https://informationisbeautiful.net/?p=8946</id>
+        <link href="https://informationisbeautiful.net/2022/ukraine-russian-war-infographics-data-visuals/"/>
+        <updated>2022-03-26T13:40:19.000Z</updated>
+        <summary type="html"><![CDATA[A collection of visualisations, maps and primers from around the web. We’ll keep this list updated. » Total Refugees from Ukraine, compared to other countries [Flowing Data] » Visualising the $13.6 billion US spend on Ukraine [New York Times] » Russian Oil – who imports it? Who’s Most Dependent on it? [Information is Beautiful] » […]]]></summary>
+        <author>
+            <name>David McCandless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Putting Ideas into Words]]></title>
         <id>http://www.paulgraham.com/words.html</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-04-21T00:18:05.791Z</updated>
+    <updated>2022-04-22T00:18:43.887Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Gas – Who imports it? Who’s Dependent On it?]]></title>
+        <id>https://informationisbeautiful.net/?p=8994</id>
+        <link href="https://informationisbeautiful.net/2022/russian-gas-who-imports-it-whos-dependent-on-it/"/>
+        <updated>2022-04-21T23:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Visualising the full extent of Russia’s natural gas production & exports to understand how much the European Union is tied to Russian energy. Numbers for this chart were hard to find, scattered across various news reports and PDFs. But it clearly shows why Germany – and several other countries – will have a very difficult time weaning themselves […]]]></summary>
+        <author>
+            <name>David McCandless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Putting Ideas into Words]]></title>
         <id>http://www.paulgraham.com/words.html</id>

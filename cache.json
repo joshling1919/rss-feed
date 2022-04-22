@@ -69,6 +69,16 @@
       "siteUrl": "https://informationisbeautiful.net",
       "articles": [
         {
+          "id": "https://informationisbeautiful.net/?p=8994",
+          "author": "David McCandless",
+          "description": "Visualising the full extent of Russia’s natural gas production & exports to understand how much the European Union is tied to Russian energy. Numbers for this chart were hard to find, scattered across various news reports and PDFs. But it clearly shows why Germany – and several other countries – will have a very difficult time weaning themselves […]",
+          "link": "https://informationisbeautiful.net/2022/russian-gas-who-imports-it-whos-dependent-on-it/",
+          "publishedOn": "2022-04-21T23:42:08.000Z",
+          "wordCount": 209,
+          "title": "Russian Gas – Who imports it? Who’s Dependent On it?",
+          "imageUrl": "https://infobeautiful4.s3.amazonaws.com/2022/04/Russian-Gas-IIB-blog-decorative-1400x400x2-960x320.png"
+        },
+        {
           "id": "https://informationisbeautiful.net/?p=8889",
           "author": "David McCandless",
           "description": "200+ hand-crafted infographics and visualisations, surfacing positive trends, uplifting stats and creative solutions to the world’s problems – in handy, multi-coloured book form. The book is also full of fresh new infographic primers and visualisations which delve deeper into certain key topics. These are designed to better arm you with context and understanding when doom-scrolling headlines and news stories about climate, or […]",

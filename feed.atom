@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-04-28T00:21:27.242Z</updated>
+    <updated>2022-04-29T00:16:31.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s $44 billion Twitter acquisition in visual context]]></title>
+        <id>https://informationisbeautiful.net/?p=9014</id>
+        <link href="https://informationisbeautiful.net/2022/elon-musks-44-billion-twitter-acquisition-in-context/"/>
+        <updated>2022-04-28T11:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Recent, selected, big big tech acquisitions – visualized.]]></summary>
+        <author>
+            <name>David McCandless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Gas – Who imports it? Who’s Dependent On it?]]></title>
         <id>https://informationisbeautiful.net/?p=8994</id>
@@ -134,16 +144,6 @@ for. Those doing the firing don't use the word "heresy" to describe
 them, but stru…]]></summary>
         <author>
             <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful News book US Edition – out this week]]></title>
-        <id>https://informationisbeautiful.net/?p=8889</id>
-        <link href="https://informationisbeautiful.net/2022/beautiful-news-book-us-edition-out-this-week/"/>
-        <updated>2022-03-29T20:16:50.000Z</updated>
-        <summary type="html"><![CDATA[200+ hand-crafted infographics and visualisations, surfacing positive trends, uplifting stats and creative solutions to the world’s problems – in handy, multi-coloured book form. The book is also full of fresh new infographic primers and visualisations which delve deeper into certain key topics. These are designed to better arm you with context and understanding when doom-scrolling headlines and news stories about climate, or […]]]></summary>
-        <author>
-            <name>David McCandless</name>
         </author>
     </entry>
 </feed>

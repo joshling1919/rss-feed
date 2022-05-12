@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-05-11T00:16:10.434Z</updated>
+    <updated>2022-05-12T00:18:22.983Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
@@ -115,33 +115,6 @@ gap between them. Anyone who's spent time around universities and
 research labs knows how big. There are a lot of genuinely smart
 people who don't achieve very much.
 I g…]]></summary>
-        <author>
-            <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heresy]]></title>
-        <id>http://www.paulgraham.com/heresy.html</id>
-        <link href="http://www.paulgraham.com/heresy.html"/>
-        <updated>2022-04-12T00:15:19.817Z</updated>
-        <summary type="html"><![CDATA[April 2022
-One of the most surprising things I've witnessed in my lifetime is
-the rebirth of the concept of heresy.
-In his excellent biography of Newton, Richard Westfall writes about the
-moment when he was elected a fellow of Trinity College:
-
-  Supported comfortably, Newton was free to devote himself wholly
-  to whatever he chose. To remain on, he had only to avoid the three
-  unforgivable sins: crime, heresy, and marriage.
-  [1]
-
-The first time I read that, in the 1990s, it sounded amusingly
-medieval. How strange, to have to avoid committing heresy. But when
-I reread it 20 years later it sounded like a description of
-contemporary employment.
-There are an ever-increasing number of opinions you can be fired
-for. Those doing the firing don't use the word "heresy" to describe
-them, but stru…]]></summary>
         <author>
             <name>Paul Graham: Essays</name>
         </author>

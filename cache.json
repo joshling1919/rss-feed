@@ -12,6 +12,16 @@
       "siteUrl": "http://www.paulgraham.com/articles.html",
       "articles": [
         {
+          "id": "http://www.paulgraham.com/words.html",
+          "author": null,
+          "description": "February 2022\nWriting about something, even something you know well, usually shows\nyou that you didn't know it as well as you thought. Putting ideas\ninto words is a severe test. The first words you choose are usually\nwrong; you have to rewrite sentences over and over  to\nget them exactly right. And your ideas won't just be imprecise, but\nincomplete too. Half the ideas that end up in an essay will be ones\nyou thought of while you were writing it. Indeed, that's why I write\nthem.\nOnce you publish something, the convention is that whatever you\nwrote was what you thought before you wrote it. These were your\nideas, and now you've expressed them. But you know this isn't true.\nYou know that putting your ideas into words changed them. And not\njust the ideas you published. Presumably there were oth…",
+          "link": "http://www.paulgraham.com/words.html",
+          "publishedOn": "2022-05-18T00:16:10.140Z",
+          "wordCount": 1154,
+          "title": "Putting Ideas into Words",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.paulgraham.com/smart.html",
           "author": null,
           "description": "October 2021\nIf you asked people what was special about Einstein, most would say\nthat he was really smart. Even the ones who tried to give you a\nmore sophisticated-sounding answer would probably think this first.\nTill a few years ago I would have given the same answer myself. But\nthat wasn't what was special about Einstein. What was special about\nhim was that he had important new ideas. Being very smart was a\nnecessary precondition for having those ideas, but the two are not\nidentical.\nIt may seem a hair-splitting distinction to point out that intelligence\nand its consequences are not identical, but it isn't. There's a big\ngap between them. Anyone who's spent time around universities and\nresearch labs knows how big. There are a lot of genuinely smart\npeople who don't achieve very much.\nI g…",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-05-19T00:18:36.169Z</updated>
+    <updated>2022-05-20T00:16:12.075Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[% Renewable Electricity by Country – Visualized!]]></title>
+        <id>https://informationisbeautiful.net/?p=9051</id>
+        <link href="https://informationisbeautiful.net/2022/renewable-electricity-by-country-visualized/"/>
+        <updated>2022-05-19T17:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Over 30% of the world’s demand is now met by solar, wind, hydro, geothermal, bioenergy etc – and it’s increasing. But there are some caveats. » See the visualisation of country and US state data » Play with the VizSweet interactive » Review the data Source: US Energy Information Administration (eia.gov)]]></summary>
+        <author>
+            <name>David McCandless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Putting Ideas into Words]]></title>
         <id>http://www.paulgraham.com/words.html</id>

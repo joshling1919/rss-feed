@@ -69,6 +69,16 @@
       "siteUrl": "https://informationisbeautiful.net",
       "articles": [
         {
+          "id": "https://informationisbeautiful.net/?p=9051",
+          "author": "David McCandless",
+          "description": "Over 30% of the world’s demand is now met by solar, wind, hydro, geothermal, bioenergy etc – and it’s increasing. But there are some caveats. » See the visualisation of country and US state data » Play with the VizSweet interactive » Review the data Source: US Energy Information Administration (eia.gov)",
+          "link": "https://informationisbeautiful.net/2022/renewable-electricity-by-country-visualized/",
+          "publishedOn": "2022-05-19T17:41:47.000Z",
+          "wordCount": 117,
+          "title": "% Renewable Electricity by Country – Visualized!",
+          "imageUrl": "https://infobeautiful4.s3.amazonaws.com/2022/05/IIB-RenewableElectricity-Blog-Decorative-1400x400x2-960x274.png"
+        },
+        {
           "id": "https://informationisbeautiful.net/?p=9014",
           "author": "David McCandless",
           "description": "Recent, selected, big big tech acquisitions – visualized.",

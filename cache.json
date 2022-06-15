@@ -30,36 +30,6 @@
           "wordCount": 1154,
           "title": "Putting Ideas into Words",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.paulgraham.com/smart.html",
-          "author": null,
-          "description": "October 2021\nIf you asked people what was special about Einstein, most would say\nthat he was really smart. Even the ones who tried to give you a\nmore sophisticated-sounding answer would probably think this first.\nTill a few years ago I would have given the same answer myself. But\nthat wasn't what was special about Einstein. What was special about\nhim was that he had important new ideas. Being very smart was a\nnecessary precondition for having those ideas, but the two are not\nidentical.\nIt may seem a hair-splitting distinction to point out that intelligence\nand its consequences are not identical, but it isn't. There's a big\ngap between them. Anyone who's spent time around universities and\nresearch labs knows how big. There are a lot of genuinely smart\npeople who don't achieve very much.\nI g…",
-          "link": "http://www.paulgraham.com/smart.html",
-          "publishedOn": "2022-05-16T00:20:36.433Z",
-          "wordCount": 1405,
-          "title": "Beyond Smart",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.paulgraham.com/goodtaste.html",
-          "author": null,
-          "description": "November 2021\n(This essay is derived from a talk at the Cambridge Union.)\nWhen I was a kid, I'd have said there wasn't. My father told me so.\nSome people like some things, and other people like other things,\nand who's to say who's right?\nIt seemed so obvious that there was no such thing as good taste\nthat it was only through indirect evidence that I realized my father\nwas wrong. And that's what I'm going to give you here: a proof by\nreductio ad absurdum. If we start from the premise that there's no\nsuch thing as good taste, we end up with conclusions that are\nobviously false, and therefore the premise must be wrong.\nWe'd better start by saying what good taste is. There's a narrow\nsense in which it refers to aesthetic judgements and a broader one\nin which it refers to preferences of any kin…",
-          "link": "http://www.paulgraham.com/goodtaste.html",
-          "publishedOn": "2022-05-16T00:20:36.423Z",
-          "wordCount": 1119,
-          "title": "Is There Such a Thing as Good Taste?",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.paulgraham.com/weird.html",
-          "author": null,
-          "description": "August 2021\nWhen people say that in their experience all programming languages\nare basically equivalent, they're making a statement not about\nlanguages but about the kind of programming they've done.\n99.5% of programming consists of gluing together calls to library\nfunctions. All popular languages are equally good at this. So one\ncan easily spend one's whole career operating in the intersection\nof popular programming languages.\nBut the other .5% of programming is disproportionately interesting.\nIf you want to learn what it consists of, the weirdness of weird\nlanguages is a good clue to follow.\nWeird languages aren't weird by accident. Not the good ones, at\nleast. The weirdness of the good ones usually implies the existence\nof some form of programming that's not just the usual gluing togeth…",
-          "link": "http://www.paulgraham.com/weird.html",
-          "publishedOn": "2022-05-16T00:20:36.409Z",
-          "wordCount": 348,
-          "title": "Weird Languages",
-          "imageUrl": null
         }
       ]
     },

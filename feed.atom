@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-06-22T00:20:50.059Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T00:15:19.000Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
     <entry>

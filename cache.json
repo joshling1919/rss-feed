@@ -67,18 +67,7 @@
       "title": "Information is Beautiful",
       "feedUrl": "http://feeds.feedburner.com/InformationIsBeautiful",
       "siteUrl": "https://informationisbeautiful.net",
-      "articles": [
-        {
-          "id": "https://informationisbeautiful.net/?p=9076",
-          "author": "David McCandless",
-          "description": "Heroku, Mailchimp, the Red Cross, GoDaddy, Acer, Nvidia, Brewdog and more sadly join 400+ others in our ongoing visualisation of data leaks, hacks and breaches (2022-2004) We’ve added an extra new interactive graphic – Breaches by Data Sensitivity – so you can see what kinds of records have been leaked (passwords, social security numbers, medical […]",
-          "link": "https://informationisbeautiful.net/2022/updated-worlds-biggest-data-breaches-new-data-sensitivity-graphic/",
-          "publishedOn": "2022-06-01T10:40:06.000Z",
-          "wordCount": 173,
-          "title": "UPDATED: World’s Biggest Data Breaches + new data sensitivity graphic",
-          "imageUrl": "https://infobeautiful4.s3.amazonaws.com/2022/06/data-breaches-by-sensitivity-DECORATIVE-blog-1400x400x2-960x274.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

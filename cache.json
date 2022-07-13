@@ -50,16 +50,6 @@
           "wordCount": 1405,
           "title": "Beyond Smart",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.paulgraham.com/heresy.html",
-          "author": null,
-          "description": "April 2022\nOne of the most surprising things I've witnessed in my lifetime is\nthe rebirth of the concept of heresy.\nIn his excellent biography of Newton, Richard Westfall writes about the\nmoment when he was elected a fellow of Trinity College:\n\n  Supported comfortably, Newton was free to devote himself wholly\n  to whatever he chose. To remain on, he had only to avoid the three\n  unforgivable sins: crime, heresy, and marriage.\n  [1]\n\nThe first time I read that, in the 1990s, it sounded amusingly\nmedieval. How strange, to have to avoid committing heresy. But when\nI reread it 20 years later it sounded like a description of\ncontemporary employment.\nThere are an ever-increasing number of opinions you can be fired\nfor. Those doing the firing don't use the word \"heresy\" to describe\nthem, but stru…",
-          "link": "http://www.paulgraham.com/heresy.html",
-          "publishedOn": "2022-06-13T00:19:33.698Z",
-          "wordCount": 2080,
-          "title": "Heresy",
-          "imageUrl": null
         }
       ]
     },
@@ -67,7 +57,18 @@
       "title": "Information is Beautiful",
       "feedUrl": "http://feeds.feedburner.com/InformationIsBeautiful",
       "siteUrl": "https://informationisbeautiful.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://informationisbeautiful.net/?p=9132",
+          "author": "David McCandless",
+          "description": "Special offer available for Amazon Prime members on Amazon today and tomorrow (12 & 13th July 2022) Get yourself 200+ hand-crafted infographics and visualisations, surfacing positive trends, uplifting stats and creative solutions to the world’s problems. » Order Beautiful News from Amazon today » See inside n.b. % discount depends on your country (I believe)",
+          "link": "https://informationisbeautiful.net/2022/up-to-40-off-our-new-infographic-book-next-48-hours/",
+          "publishedOn": "2022-07-12T14:25:52.000Z",
+          "wordCount": 394,
+          "title": "Up to 40% off our new infographic book – next 48 hours",
+          "imageUrl": "https://infobeautiful4.s3.amazonaws.com/2021/10/IIB-blog-BNEWS-decorative-1400x400-1-960x274.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

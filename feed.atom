@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://joshling1919.github.io/rss-feed/index.html</id>
     <title>rss feed</title>
-    <updated>2022-07-15T00:20:29.474Z</updated>
+    <updated>2022-07-16T00:19:27.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://joshling1919.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://joshling1919.github.io/rss-feed/feed.atom"/>
@@ -62,76 +62,6 @@ wrote was what you thought before you wrote it. These were your
 ideas, and now you've expressed them. But you know this isn't true.
 You know that putting your ideas into words changed them. And not
 just the ideas you published. Presumably there were oth…]]></summary>
-        <author>
-            <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is There Such a Thing as Good Taste?]]></title>
-        <id>http://www.paulgraham.com/goodtaste.html</id>
-        <link href="http://www.paulgraham.com/goodtaste.html"/>
-        <updated>2022-06-16T00:16:30.686Z</updated>
-        <summary type="html"><![CDATA[November 2021
-(This essay is derived from a talk at the Cambridge Union.)
-When I was a kid, I'd have said there wasn't. My father told me so.
-Some people like some things, and other people like other things,
-and who's to say who's right?
-It seemed so obvious that there was no such thing as good taste
-that it was only through indirect evidence that I realized my father
-was wrong. And that's what I'm going to give you here: a proof by
-reductio ad absurdum. If we start from the premise that there's no
-such thing as good taste, we end up with conclusions that are
-obviously false, and therefore the premise must be wrong.
-We'd better start by saying what good taste is. There's a narrow
-sense in which it refers to aesthetic judgements and a broader one
-in which it refers to preferences of any kin…]]></summary>
-        <author>
-            <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Languages]]></title>
-        <id>http://www.paulgraham.com/weird.html</id>
-        <link href="http://www.paulgraham.com/weird.html"/>
-        <updated>2022-06-16T00:16:30.625Z</updated>
-        <summary type="html"><![CDATA[August 2021
-When people say that in their experience all programming languages
-are basically equivalent, they're making a statement not about
-languages but about the kind of programming they've done.
-99.5% of programming consists of gluing together calls to library
-functions. All popular languages are equally good at this. So one
-can easily spend one's whole career operating in the intersection
-of popular programming languages.
-But the other .5% of programming is disproportionately interesting.
-If you want to learn what it consists of, the weirdness of weird
-languages is a good clue to follow.
-Weird languages aren't weird by accident. Not the good ones, at
-least. The weirdness of the good ones usually implies the existence
-of some form of programming that's not just the usual gluing togeth…]]></summary>
-        <author>
-            <name>Paul Graham: Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Smart]]></title>
-        <id>http://www.paulgraham.com/smart.html</id>
-        <link href="http://www.paulgraham.com/smart.html"/>
-        <updated>2022-06-16T00:16:30.588Z</updated>
-        <summary type="html"><![CDATA[October 2021
-If you asked people what was special about Einstein, most would say
-that he was really smart. Even the ones who tried to give you a
-more sophisticated-sounding answer would probably think this first.
-Till a few years ago I would have given the same answer myself. But
-that wasn't what was special about Einstein. What was special about
-him was that he had important new ideas. Being very smart was a
-necessary precondition for having those ideas, but the two are not
-identical.
-It may seem a hair-splitting distinction to point out that intelligence
-and its consequences are not identical, but it isn't. There's a big
-gap between them. Anyone who's spent time around universities and
-research labs knows how big. There are a lot of genuinely smart
-people who don't achieve very much.
-I g…]]></summary>
         <author>
             <name>Paul Graham: Essays</name>
         </author>
